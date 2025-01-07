@@ -64,7 +64,7 @@ body{
 .text{
   flex: 0 0 45%;
   flex-grow:1.2 ;
-  padding: 20px;
+  padding: 0px;
   background-color: #F5F5DC;
 }
 
