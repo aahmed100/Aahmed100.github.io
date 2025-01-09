@@ -202,15 +202,15 @@ iframe{
 }
 
 .student{
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .student1{
-flex: 0 0 30%;
+flex: 0 0 50%;
 }
 
 .student2{
-  flex: 0 0 30%;
+  flex: 0 0 80%;
 }
 
 .centreImage{
@@ -218,4 +218,8 @@ flex: 0 0 30%;
   margin-right: auto;
   width: 50%;
   display: block;
+}
+
+.para{
+  font-size: 25px;
 }
